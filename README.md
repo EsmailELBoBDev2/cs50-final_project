@@ -1,4 +1,5 @@
-# CS50 Final Project - Rickrolled: The Script
+
+# <img src=icon128.png> CS50 Final Project - Rickrolled: The Script
 
 So my final project i wanted to make it light and at same time something bring joy to me. I love memes okay xD and yup my final project actually a little script (JS) that scans all of <a> tags in HTML and replaces them with rickrolled video (of course it's on random basis) so you can enable it via tampermonkey or any script manager addon and surf the web and maybe all of your pages will be rickrolled :P
 
